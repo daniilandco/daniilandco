@@ -26,14 +26,6 @@
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">
   </a>
   &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML5">
-    <img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.javascript.com">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   </a>
