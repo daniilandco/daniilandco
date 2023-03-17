@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <img src="https://media.tenor.com/He2W0AQvZfsAAAAC/hacked-hack.gif" width="100"/>
 
-# Hey, what's up, my name is Daniil. I'm Fullstack Web Developer! 
-- 👀 I’m currently working on several Web (ReactJs, GWT) apps
+# Hi there 👋, my name is Daniil. I'm Fullstack Web Developer! 
+- 💼 I'm currently working on several Web (ReactJs, GWT) projects
 - 🎓 Also I’m currently learning architecture and code improvement approaches. Moreover I spend a lot of time on learning English
-- 👯 I’m interested in any offers, if you have something - [just write me](https://www.linkedin.com/in/daniel-bondarcov/)
+- 🍀 I’m interested in any offers, if you have something - [just connect me](https://www.linkedin.com/in/daniel-bondarcov/)
 
 ### Connect with me:
 
